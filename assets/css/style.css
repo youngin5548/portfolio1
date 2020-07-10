@@ -356,7 +356,7 @@ ul.list-check li::before {
 .intro {
 	position: absolute;
 	width: 100%;
-	top: 50%;
+	top: 45%;
 	left: 0;
 	text-align: center;
 	-webkit-transform: translate(0%, -50%);
@@ -368,9 +368,9 @@ ul.list-check li::before {
 }
 
 .intro h1{
-	font-size: 60px;
+	font-size: 80px;
 	line-height: 80px;
-	margin-bottom: 16px;
+	margin-bottom: 20px;
 	color: #C4DDF2;
 }
 .intro h1 span{
@@ -379,7 +379,7 @@ ul.list-check li::before {
 .intro p {
     color: #f7f7f7;
     margin-bottom: 40px;
-    font-size: 20px;
+    font-size: 23px;
     line-height: 30px;
 }
 
@@ -390,7 +390,7 @@ ul.list-check li::before {
 	/*font-weight: 700;*/
 	text-transform: uppercase;
 	display: block;
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 }
 
 /* 
@@ -1640,7 +1640,7 @@ Icon for all respective meta
 .mouse-icon {
 	position: absolute;
 	left: 50%;
-	bottom: 20%;
+	bottom: 28%;
 	border: 2px solid #fff;
 	border-radius: 16px;
 	height: 50px;
