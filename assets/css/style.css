@@ -28,7 +28,7 @@
 =====================================
 */
 
-* {font-family: NotoSansCJKkr-Regular !important;}
+* {font-family: NotoSansCJKkr-Regular;}
 @font-face {font-family: 'NotoSansCJKkr-Regular';
 src: url("/fonts/NotoSansCJKkr-Regular.otf") format('opentype');}
 
