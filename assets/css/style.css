@@ -32,7 +32,7 @@
 @font-face {font-family: 'NotoSansCJKkr-Regular';
 src: url("/fonts/NotoSansCJKkr-Regular.otf") format('opentype');}
 
-.intro h1, .intro-sub, .section-title, .navbar-custom .navbar-nav > li > a, .hire-section h2, .skill-chart{font-family: Maplestory Light;}
+.intro h1, .intro-sub, .section-title, .navbar-custom .navbar-nav > li > a, .hire-section h2, .skill-chart{font-family: Maplestory Light !important;}
 
 
 body{
