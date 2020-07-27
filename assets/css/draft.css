@@ -10,4 +10,10 @@ img{width: 90%}
 .sub5{width: 50%;  float: left;}
 .sub6{width: 50%;  float: right;}
 .sub1_m{width: 50%; float: left}
-.sub2_m{width: 50%; float: right;}
+.sub2_m{width: 50%; float: left;}
+.sub3_m{width: 50%; float: left;}
+.sub4_m{width: 50%; float: left;}
+.sub5_m{width: 50%; float: left;}
+.sub6_m{width: 50%; float: left;}
+.sub1_m, .sub2_m, .sub3_m, .sub4_m, .sub5_m, .sub6_m{width: 16%}
+.mobile h3{font-size: 20px}
