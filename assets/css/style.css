@@ -1420,6 +1420,8 @@ Resume Timeline
 .col-sm-4:nth-child(1) .btn_bx{right: 24%}
 .col-sm-4:nth-child(2) .btn_web{left: 24%}
 .col-sm-4:nth-child(2) .btn_bx{right: 24%}
+.col-sm-4:nth-child(3) .btn_web{left: 24%}
+.col-sm-4:nth-child(3) .btn_bx{right: 24%}
 
 .btn_web{width: 80px; height: 40px; border-radius: 12px 12px; background-color: #032859;color: #fff; position: absolute; left: 24%; line-height: 38px; font-size: 20px; font-weight: 400; bottom: 10px;}
 .btn_bx {
